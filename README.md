@@ -1,9 +1,9 @@
 # cesium_measurementTool
 Making measurement tool using cesium.js
 
-JS application code for creating measurement tool using cesium.js
+JS application code for creating measurement tool using cesium.js  
 
-Youtube video on demo https://www.youtube.com/watch?v=gMobEzRjB3I
+Demo: https://www.youtube.com/watch?v=gMobEzRjB3I
 
 Useful Links:  
 Download Cesium - https://cesium.com/downloads/  
