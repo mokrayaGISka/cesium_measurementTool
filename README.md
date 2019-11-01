@@ -5,7 +5,7 @@ JS application code for creating measurement tool using cesium.js
 
 Youtube video on demo https://www.youtube.com/watch?v=gMobEzRjB3I
 
-Useful Links:
+Useful Links:\n
 Download Cesium - https://cesium.com/downloads/
 Sandbox - https://sandcastle.cesium.com/
 Cesium API - https://cesium.com/docs/cesiumjs-ref-doc/
